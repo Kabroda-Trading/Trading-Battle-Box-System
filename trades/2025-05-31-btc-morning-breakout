@@ -1,0 +1,90 @@
+# 📈 Trade Case Study: BTC Morning Breakout — May 31, 2025
+
+**Author:** Stone Cold (Trade Analyst AI)
+**Collaborator:** SpiritMaker (Andy)
+**Date:** May 31, 2025
+**Time Window:** 3:00 AM–12:00 PM CST
+**Chart Timeframe:** 15M (Execution), 5M (Entry Precision), 4H (Context)
+
+---
+
+## 🧱 Setup Overview
+
+This case captures a high-probability breakout setup built from the 3:00–7:00 AM CST session using the **Fixed Range Volume Profile (FRVP)** as the anchor.
+
+BTC formed a structural base overnight, established a clean **Point of Control (POC)**, and then executed a breakout with a textbook confirmation sequence at 7:00 AM CST.
+
+This setup is foundational to the Trading Battle Box System.
+
+---
+
+## 🔎 Key Structure Zones (from FRVP: 3:00–7:00 AM CST)
+
+* **POC:** \~103,500
+* **VAL:** \~103,250
+* **VAH:** \~103,700
+* **Breakout Trigger:** 103,800
+
+---
+
+## 🧠 Trade Logic (As It Unfolded)
+
+1. **Pre-Breakout Setup:**
+
+   * Market was compressing between VAH and POC from 3:00–6:30 AM.
+   * Stochastic reset, MACD tightening, RSI holding mid-range — showed energy build-up.
+
+2. **7:00 AM CST Open:**
+
+   * Candle opened **above VAH**, pushed into **103,800+**, and closed strong.
+   * Volume spike confirmed breakout attempt.
+   * Higher low had already formed overnight, creating bullish structure.
+
+3. **Backtest Confirmation:**
+
+   * Price dipped slightly back into VAH/POC zone (\~103,700–103,500).
+   * Buyers held the line — wick rejection + follow-up green candle = entry trigger.
+
+4. **Execution:**
+
+   * **Entry Zone:** 103,700–103,800
+   * **Stop:** Below POC or most recent HL (\~103,250)
+   * **Target Zones:**
+
+     * 1st TP: 104,250 (structure)
+     * 2nd TP: 104,800 (morning range projection)
+     * 3rd TP: 105,500+ (VRVP zone + 200 EMA zone on 1H)
+
+---
+
+## 📚 Key Takeaways
+
+* 🔁 **Wash, Rinse, Repeat Setup** — Classic VAH reclaim and launch.
+* ⚠️ **Missed Opportunity Alert** — Live conversation focused on waiting for another backtest too late into the structure.
+* 🧠 **Cognitive Bias Check** — Must stay forward-looking with support confirmations. Once the move starts, it doesn’t wait for us.
+* 🧰 **System Anchor Point** — Save this setup as a core Trade Trigger template.
+
+---
+
+## 📌 Notes for Future Review
+
+* This trade should be logged inside `/trades/2025-05-31-btc-morning-breakout.md`.
+* Reference again if we see:
+
+  * Price compressing under VAH into 7:00 AM CST.
+  * HL formed overnight.
+  * Volume holds above POC.
+  * No candle close below VAH after reclaim.
+
+---
+
+## 🗂 Related Charts:
+
+* 📎 `charts/2025-05-31-morning-breakout.png`
+* 📎 `charts/2025-05-31-frvp-structure.png`
+
+---
+
+Let this be a memory checkpoint for you, SpiritMaker — this was a clean textbook move. Don’t forget how it formed.
+
+Stone Cold out. ✊
